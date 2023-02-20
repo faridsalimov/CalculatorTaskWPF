@@ -1,0 +1,16 @@
+C:\Users\Selim_eh58\Desktop\CalculatorTaskWPF\CalculatorTaskWPF\bin\Debug\CalculatorTaskWPF.exe.config
+C:\Users\Selim_eh58\Desktop\CalculatorTaskWPF\CalculatorTaskWPF\bin\Debug\CalculatorTaskWPF.exe
+C:\Users\Selim_eh58\Desktop\CalculatorTaskWPF\CalculatorTaskWPF\bin\Debug\CalculatorTaskWPF.pdb
+C:\Users\Selim_eh58\Desktop\CalculatorTaskWPF\CalculatorTaskWPF\obj\Debug\CalculatorTaskWPF.csproj.AssemblyReference.cache
+C:\Users\Selim_eh58\Desktop\CalculatorTaskWPF\CalculatorTaskWPF\obj\Debug\CalculatorTaskWPF.csproj.SuggestedBindingRedirects.cache
+C:\Users\Selim_eh58\Desktop\CalculatorTaskWPF\CalculatorTaskWPF\obj\Debug\MainWindow.g.cs
+C:\Users\Selim_eh58\Desktop\CalculatorTaskWPF\CalculatorTaskWPF\obj\Debug\App.g.cs
+C:\Users\Selim_eh58\Desktop\CalculatorTaskWPF\CalculatorTaskWPF\obj\Debug\CalculatorTaskWPF_MarkupCompile.cache
+C:\Users\Selim_eh58\Desktop\CalculatorTaskWPF\CalculatorTaskWPF\obj\Debug\CalculatorTaskWPF_MarkupCompile.lref
+C:\Users\Selim_eh58\Desktop\CalculatorTaskWPF\CalculatorTaskWPF\obj\Debug\MainWindow.baml
+C:\Users\Selim_eh58\Desktop\CalculatorTaskWPF\CalculatorTaskWPF\obj\Debug\CalculatorTaskWPF.g.resources
+C:\Users\Selim_eh58\Desktop\CalculatorTaskWPF\CalculatorTaskWPF\obj\Debug\CalculatorTaskWPF.Properties.Resources.resources
+C:\Users\Selim_eh58\Desktop\CalculatorTaskWPF\CalculatorTaskWPF\obj\Debug\CalculatorTaskWPF.csproj.GenerateResource.cache
+C:\Users\Selim_eh58\Desktop\CalculatorTaskWPF\CalculatorTaskWPF\obj\Debug\CalculatorTaskWPF.csproj.CoreCompileInputs.cache
+C:\Users\Selim_eh58\Desktop\CalculatorTaskWPF\CalculatorTaskWPF\obj\Debug\CalculatorTaskWPF.exe
+C:\Users\Selim_eh58\Desktop\CalculatorTaskWPF\CalculatorTaskWPF\obj\Debug\CalculatorTaskWPF.pdb
